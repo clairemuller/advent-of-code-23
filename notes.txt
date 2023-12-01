@@ -1,0 +1,10 @@
+each day has it's own directory
+
+create the go.mod file:
+`go mod init 01`
+
+install and run the file
+`go install 01` or `go install .` or `go install`
+`01`
+
+package main
